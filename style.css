@@ -16,6 +16,10 @@ table, th, td {
   padding:2px 4px 2px 4px;
 }
 
+td img {
+ position:absolute; /* prevent the art from enlarging table */
+}
+
  body {
  font-family: "04b03";
  font-size:15px;
