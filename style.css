@@ -76,6 +76,7 @@ table, th, td {
  box-shadow: 0 0 0 3px #000;
  color:#3a3a3a;
  padding:13px;
+ position:relative;
 }
 
 .conclusion {
