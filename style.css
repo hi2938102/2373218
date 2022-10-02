@@ -16,10 +16,6 @@ table, th, td {
   padding:2px 4px 2px 4px;
 }
 
-td img {
- position:absolute;
-}
-
  body {
  font-family: "04b03";
  font-size:15px;
@@ -80,7 +76,6 @@ td img {
  box-shadow: 0 0 0 3px #000;
  color:#3a3a3a;
  padding:13px;
- position:relative;
 }
 
 .conclusion {
