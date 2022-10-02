@@ -17,7 +17,7 @@ table, th, td {
 }
 
 td img {
- position:absolute; /* prevent the art from enlarging table */
+ position:absolute;
 }
 
  body {
